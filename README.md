@@ -7,17 +7,17 @@ Para lograr la conexión con la PokeAPI, se ha utilizado JavaScript. Esto nos pe
 
 Este proyecto es ideal para aquellos interesados en los Pokémon y desean tener una forma sencilla y atractiva de acceder a información detallada sobre ellos. Siéntete libre de explorar la página web, descubrir nuevas especies y disfrutar de la experiencia Pokémon que ofrece.
 
-Instrucciones de Uso
-Clona este repositorio en tu máquina local.
-Abre el archivo index.html en tu navegador web.
-Explora los distintos Pokémon disponibles haciendo clic en el botón "Mostrar más información".
+# Instrucciones de Uso
+1.Clona este repositorio en tu máquina local.
+2.Abre el archivo index.html en tu navegador web.
+3. Explora los distintos Pokémon disponibles haciendo clic en el botón "Mostrar más información".
 ¡Disfruta aprendiendo sobre tus Pokémon favoritos!
-Contribución
+# Contribución
 Si deseas contribuir a este proyecto, ¡serás bienvenido! Puedes hacerlo mediante la apertura de un problema (issue) o enviando una solicitud de extracción (pull request) para proponer cambios o mejoras.
 
 Recuerda seguir las mejores prácticas de desarrollo y respetar las directrices de contribución establecidas en este repositorio.
 
-Créditos
+# Créditos
 Este proyecto utiliza la PokeAPI para obtener datos sobre los Pokémon.
 Se ha utilizado el framework Bootstrap para el diseño y estilo de la página web.
 Licencia
