@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Pokémon API</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+        integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <link rel="stylesheet" href="Style.css">
+</head>
+
+<body onload="pokemonVista()">
+    <div class="fondo">
+
+        <section class="py-5 text-center container">
+            <div class="py-lg-5 align-items-center">
+
+                <h1 class="fw-light Letra1">¡ENCUENTRA TÚ POKEMON FAVORITO!</h1>
+
+                <p class="lead Letra2">
+                    ¡Bienvenido a esta página web de Pokémones! Aquí podrás explorar y descubrir
+                    información detallada sobre tus Pokémon favoritos. Con ayuda de la PokeAPI,
+                    te ofrecemos datos precisos sobre la altura, peso y habilidades de cada Pokémon.
+                    Navega a través de nuestra interfaz intuitiva y descubre los secretos
+                    de estos fascinantes seres. Ya sea que estés interesado en la altura
+                    imponente de Charizard, el peso ligero de Jolteon o las habilidades únicas
+                    de Pikachu, encontrarás todo lo que necesitas saber aquí.
+                    Sumérgete en el mundo Pokémon y disfruta de una experiencia
+                    llena de conocimiento y diversión. ¡Atrapalos a todos!"
+                </p>
+
+            </div>
+        </section>
+
+        <div class="album py-5 bg-body-tertiary">
+            <div class="container">
+                <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3" id="pokemon-container">
+                    <!-- Los contenedores de los Pokémon se generarán aquí -->
+                </div>
+            </div>
+        </div>
+
+        <div id="modal" class="modal">
+
+            <div class="modal-content fondo" style="width: 40%;">
+                <span class="close">&times;</span>
+                <div id="modal-details"></div>
+            </div>
+        </div>
+
+        <div>
+            <nav aria-label="Page navigation example">
+                <ul id="pagination-list" class="pagination-list pagination">
+                    <li class="page-item"><a class="page-link" href="#">Anterior</a></li>
+                    <!-- Aquí se generará dinámicamente la lista de páginas -->
+                    <li class="page-item"><a class="page-link" href="#">Siguiente</a></li>
+                </ul>
+            </nav>
+        </div>
+        <br>
+
+    </div>
+
+
+
+    <script src="PokeApp.js"></script>
+
+
+</body>
+
+</html>
