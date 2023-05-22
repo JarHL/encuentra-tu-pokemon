@@ -9,8 +9,8 @@ Este proyecto es ideal para aquellos interesados en los Pokémon y desean tener 
 
 # Instrucciones de Uso
 0. puedes abrir el sitio web en https://jarhl.github.io/encuentra-tu-pokemon/
-1.Clona este repositorio en tu máquina local.
-2.Abre el archivo index.html en tu navegador web.
+1. Clona este repositorio en tu máquina local.
+2. Abre el archivo index.html en tu navegador web.
 3. Explora los distintos Pokémon disponibles haciendo clic en el botón "Mostrar más información".
 ¡Disfruta aprendiendo sobre tus Pokémon favoritos!
 # Contribución
