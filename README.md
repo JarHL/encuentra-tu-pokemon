@@ -8,6 +8,7 @@ Para lograr la conexión con la PokeAPI, se ha utilizado JavaScript. Esto nos pe
 Este proyecto es ideal para aquellos interesados en los Pokémon y desean tener una forma sencilla y atractiva de acceder a información detallada sobre ellos. Siéntete libre de explorar la página web, descubrir nuevas especies y disfrutar de la experiencia Pokémon que ofrece.
 
 # Instrucciones de Uso
+0. puedes abrir el sitio web en https://jarhl.github.io/encuentra-tu-pokemon/
 1.Clona este repositorio en tu máquina local.
 2.Abre el archivo index.html en tu navegador web.
 3. Explora los distintos Pokémon disponibles haciendo clic en el botón "Mostrar más información".
